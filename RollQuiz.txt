@@ -3,7 +3,7 @@ baloo
 olga
 kay-ro
 chang
-shass-on
+[x] shass-on
 clent
 farmer
 hampton
